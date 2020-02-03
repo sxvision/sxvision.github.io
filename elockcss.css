@@ -82,6 +82,7 @@ h5{
 
 .figure {
     display: inline-block;
+    margin: 0;
 }
 .rounded {
     border-radius: .25rem!important;
